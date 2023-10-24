@@ -45,14 +45,14 @@ a {
 .image_blue {
     position: absolute;
     background: #003366;
-    height: 200px;
-    width: 1150px;
+    height: 40%;
+    width: 70%;
 }
 
 .image_right {
     position: absolute;
     right: 0;
     top: -300px;
-    width: 700px;
-    height: 400px;
+    width: 50%;
+    height: 100%;
 }
